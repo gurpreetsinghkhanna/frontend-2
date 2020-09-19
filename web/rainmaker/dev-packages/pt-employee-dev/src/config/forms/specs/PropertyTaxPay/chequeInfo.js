@@ -43,6 +43,7 @@ const formConfig = {
       id: "BankName",
       required: true,
       hideField: true,
+      required: true,
       type: "textfield",
       disabled: true,
       floatingLabelText: "TL_PAYMENT_BANK_LABEL",
